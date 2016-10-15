@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#EEEEEE</color>
+    <color name="text">#000000</color>
+    <color name="textTitle">#FFFFFF</color>
+    <color name="button">#d57d4c</color>
+    <color name="titleBar">#d57d4c</color>
+    <color name="information">#0099CC</color>
+    <color name="error">#E64320</color>
+
+</resources>

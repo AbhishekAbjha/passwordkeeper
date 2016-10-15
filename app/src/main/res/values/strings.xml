@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PasswordKeeper</string>
+
+    <string name="title_name">PasswordKeeper</string>
+
+    <string name="placeholderUserKey">User Key</string>
+    <string name="placeholderConfirmUserKey">Confirm User Key</string>
+    <string name="userKeyInformation">* User key is used as one of the parameters to encrypt account passwords.
+        If you forgot key then you will lose all account details and have to reset the application by installing again or
+        clearing app data through settings.</string>
+
+
+    <string name="placeholderAccountName">Account Name</string>
+    <string name="placeholderUsername">Username</string>
+    <string name="placeholderPassword">Password</string>
+    <string name="placeholderNotes">Notes</string>
+
+</resources>
